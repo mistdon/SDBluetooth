@@ -4,7 +4,7 @@ iOS蓝牙开发
 关于Corebluetooth的知识，网上很多,就不多叙述了。看下面的效果：
 
 测量过程
-![](bluetooth.gif = 250)
+![](bluetooth.gif)
 
 lightBlue APP,可以模拟设备连接,通过该app可以看到设备的services，对设备的uuid和characteristic有全面的了解
 ![](lightblue.gif)
